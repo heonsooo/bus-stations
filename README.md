@@ -25,7 +25,7 @@ url : http://data.seoul.go.kr/dataList/OA-12913/S/1/datasetView.do;jsessionid=31
 
 ----
    
-1) [일간 정류소 별 승하차인원(19.12 , 20.12).ipynb](https://github.com/heonsooo/Bus_Stations/blob/main/%EC%9D%BC%EA%B0%84%20%EC%A0%95%EB%A5%98%EC%86%8C%20%EB%B3%84%20%EC%8A%B9%ED%95%98%EC%B0%A8%EC%9D%B8%EC%9B%90(19.12%20%2C%2020.12).ipynb)  
+## 1) [일간 정류소 별 승하차인원(19.12 , 20.12).ipynb](https://github.com/heonsooo/Bus_Stations/blob/main/%EC%9D%BC%EA%B0%84%20%EC%A0%95%EB%A5%98%EC%86%8C%20%EB%B3%84%20%EC%8A%B9%ED%95%98%EC%B0%A8%EC%9D%B8%EC%9B%90(19.12%20%2C%2020.12).ipynb)  
 #### 가장 많은 승,하차승객수 정류소  
 - 2020-12  데이터 탐색을 했습니다.  
 - 하차 총 승객 수 값으로 내림차순 정렬을 했고, 금천 03 버스노선의 '구로디지털단지역환슨셍터' 에서 하차 총 승객 수가 가장 많았습니다. (이후 5번째까지 같았습니다.)  
@@ -39,9 +39,10 @@ url : http://data.seoul.go.kr/dataList/OA-12913/S/1/datasetView.do;jsessionid=31
 - 그리고 승차승객수가 가장 많은 버스정류장은 메세나폴리스 정류장입니다.  
   2, 6호선 모두 이용할 수 있는 합정역에서 나와 망원동 - 성산동 - 상암동을 향하는 가장 가까운 버스정류장이기에 가장 많은 사람이 이용한다고 판단이 됩니다.  
 - 그리고 가장 적은 승객수의 정류소는 회차지 점인 대덕동 주민센터입니다.  
-
-   
-2) [12월_일자별_143버스_이용현황](https://github.com/heonsooo/Bus_Stations/blob/main/12%EC%9B%94_%EC%9D%BC%EC%9E%90%EB%B3%84_143%EB%B2%84%EC%8A%A4_%EC%9D%B4%EC%9A%A9%ED%98%84%ED%99%A9.ipynb)     
+    
+     
+-----
+## 2) [12월_일자별_143버스_이용현황](https://github.com/heonsooo/Bus_Stations/blob/main/12%EC%9B%94_%EC%9D%BC%EC%9E%90%EB%B3%84_143%EB%B2%84%EC%8A%A4_%EC%9D%B4%EC%9A%A9%ED%98%84%ED%99%A9.ipynb)     
   
 - 2020-12 데이터를 분석  
 - 위에 했던 분석에서 시간이 한 달여 정도 지났기 때문에 데이터 탐색부터 다시 진행했습니다.  
@@ -65,7 +66,9 @@ url : http://data.seoul.go.kr/dataList/OA-12913/S/1/datasetView.do;jsessionid=31
 - 이를 통해 밑에서 진행한 서울 시내에서 운영하는 버스의 일자별 총 승객수 변동 그래프를 그릴 수 있게 되었습니다.
    
    
-3) [12월_일자별_버스이용현황_변동그래프](https://github.com/heonsooo/Bus_Stations/blob/main/12%EC%9B%94_%EC%9D%BC%EC%9E%90%EB%B3%84_%EB%B2%84%EC%8A%A4%EC%9D%B4%EC%9A%A9%ED%98%84%ED%99%A9_%EB%B3%80%EB%8F%99%EA%B7%B8%EB%9E%98%ED%94%84.ipynb)    
+   ----
+## 3) [12월_일자별_버스이용현황_변동그래프](https://github.com/heonsooo/Bus_Stations/blob/main/12%EC%9B%94_%EC%9D%BC%EC%9E%90%EB%B3%84_%EB%B2%84%EC%8A%A4%EC%9D%B4%EC%9A%A9%ED%98%84%ED%99%A9_%EB%B3%80%EB%8F%99%EA%B7%B8%EB%9E%98%ED%94%84.ipynb)    
 
-
-
+- 위에서 특정 노선의 일자별 총 승객수 변동을 알 수 있었습니다.  
+- 이를 통해 for문을 통해 각 노선에서 일자별 총 승객수 변동을 구할 수 있습니다.  
+- 623개의 모든 버스 노선의 변동을 시각화 하려고 했지만 상위30개, 하위 23개의 버스의 일자별 총 승객수 변동을 시각화 했습니다.  
