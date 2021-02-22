@@ -79,7 +79,7 @@ url : http://data.seoul.go.kr/dataList/OA-12913/S/1/datasetView.do;jsessionid=31
   
  ----
    
-## 4) [271분할_전,후.ipynb스).ipynb](https://github.com/heonsooo/Bus_Stations/blob/main/271%EB%B6%84%ED%95%A0_%EC%A0%84%2C%ED%9B%84.ipynb)  
+## 4) [271분할_전,후](https://github.com/heonsooo/Bus_Stations/blob/main/271%EB%B6%84%ED%95%A0_%EC%A0%84%2C%ED%9B%84.ipynb)  
 #### 가장 많은 승,하차승객수 정류소  
 - 271 A,B 나뉘기 전/후 비교
 - 2020.03.20기준으로 분할이 되었습니다.
@@ -90,7 +90,7 @@ url : http://data.seoul.go.kr/dataList/OA-12913/S/1/datasetView.do;jsessionid=31
 
 ----
   
-## 5) [코로나 전, 후 버스 승객 이용 분석 (7011 버스).ipynb](https://github.com/heonsooo/Bus_Stations/blob/main/%EC%BD%94%EB%A1%9C%EB%82%98%20%EC%A0%84%2C%20%ED%9B%84%20%EB%B2%84%EC%8A%A4%20%EC%8A%B9%EA%B0%9D%20%EC%9D%B4%EC%9A%A9%20%EB%B6%84%EC%84%9D%20(7011%20%EB%B2%84%EC%8A%A4).ipynb)
+## 5) [코로나 전, 후 버스 승객 이용 분석 (7011 버스)](https://github.com/heonsooo/Bus_Stations/blob/main/%EC%BD%94%EB%A1%9C%EB%82%98%20%EC%A0%84%2C%20%ED%9B%84%20%EB%B2%84%EC%8A%A4%20%EC%8A%B9%EA%B0%9D%20%EC%9D%B4%EC%9A%A9%20%EB%B6%84%EC%84%9D%20(7011%20%EB%B2%84%EC%8A%A4).ipynb)
 
 - 위에서 271 버스 결과에 흥미를 느껴 2019년 1월 - 2020년 12월까지의 일별 버스 승,하차 데이터를 수집했습니다.  
   출처 : 서울 열린 데이터 광장 url : http://data.seoul.go.kr/dataList/OA-12912/S/1/datasetView.do#   
