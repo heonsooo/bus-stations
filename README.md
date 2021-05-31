@@ -45,7 +45,7 @@ url : http://data.seoul.go.kr/dataList/OA-12913/S/1/datasetView.do;jsessionid=31
      
      
 -----
-## 2) [12월_일자별_143버스_이용현황](https://github.com/heonsooo/Bus_Stations/blob/main/12%EC%9B%94_%EC%9D%BC%EC%9E%90%EB%B3%84_143%EB%B2%84%EC%8A%A4_%EC%9D%B4%EC%9A%A9%ED%98%84%ED%99%A9.ipynb)     
+## 2) [12월_일자별_143버스_이용현황](https://github.com/heonsooo/Bus_Stations/blob/main/12%EC%9B%94_%EC%9D%BC%EC%9E%90%EB%B3%84_%EB%B2%84%EC%8A%A4_%EC%9D%B4%EC%9A%A9%ED%98%84%ED%99%A9(143%EB%B2%84%EC%8A%A4).ipynb)     
   
 - 2020-12 데이터를 분석
 - 위에 했던 분석에서 시간이 한 달여 정도 지났기 때문에 데이터 탐색부터 다시 진행했습니다.  
