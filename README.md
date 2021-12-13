@@ -79,7 +79,7 @@ url : http://data.seoul.go.kr/dataList/OA-12913/S/1/datasetView.do;jsessionid=31
   
  ----
    
-## 4) [271분할_전,후](https://github.com/heonsooo/Bus_Stations/blob/main/271%EB%B6%84%ED%95%A0_%EC%A0%84%2C%ED%9B%84.ipynb)  
+## 4) [271분할_전,후](https://github.com/heonsooo/Bus_Stations/blob/main/271%EB%B6%84%ED%95%A0_%EC%A0%84-%ED%9B%84.ipynb)
 #### 가장 많은 승,하차승객수 정류소  
 - 271 A,B 나뉘기 전/후 비교
 - 2020.03.20기준으로 분할이 되었습니다.  
